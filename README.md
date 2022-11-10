@@ -39,7 +39,7 @@ When selecting the Device registration page, the user will see the following:
 
 
 On this page the user can filter the data to show the relevant information
-for example: here I filtered the page to only display the entry access data:
+for example: here I filtered the page to only display the aircon activation data:
 
 ![6](https://user-images.githubusercontent.com/79098262/201101730-8c654442-1607-4536-bbef-42957d343cc8.PNG)
 
