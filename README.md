@@ -46,14 +46,20 @@ for example: here I filtered the page to only display the aircon activation data
 
 ### Scrum implementation
 The project board was updated throughout, and the following tasks have been completed:
-*image 7
+![a](https://user-images.githubusercontent.com/79098262/201104772-fb0b85d2-13fa-46e7-9279-912bbf0bc669.PNG)
+![b](https://user-images.githubusercontent.com/79098262/201104781-ee7ae64d-ecbc-4ed9-9668-cc5f5180168f.PNG)
+![c](https://user-images.githubusercontent.com/79098262/201104758-0b01f0e1-26b6-42cb-a5fe-c2548ad3679f.PNG)
 
 Stretch tasks have been indicated:
-*image 8
+![d](https://user-images.githubusercontent.com/79098262/201104867-edaf43bb-62bc-4df7-8bad-68826a5e9dd6.PNG)
+The third stretch task has been completed before the due date
 
 ### Links
 - [Reference list]()
--[Project 5]()
+-[Project 5](https://github.com/Anja34208887/CMPG-323-Project-5-34208887)
+
+
+
 
 
 
