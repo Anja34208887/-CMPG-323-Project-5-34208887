@@ -55,8 +55,8 @@ Stretch tasks have been indicated:
 The third stretch task has been completed before the due date
 
 ### Links
-- [Reference list]()
--[Project 5](https://github.com/Anja34208887/CMPG-323-Project-5-34208887)
+- [Reference list](https://github.com/Anja34208887/CMPG-323-Project-5-34208887/blob/main/Reference%20List.pdf)
+- [Project 5](https://github.com/Anja34208887/CMPG-323-Project-5-34208887)
 
 
 
